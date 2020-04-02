@@ -21,8 +21,8 @@
 
 - [ ] I have read the **CONTRIBUTING** document.
 - [ ] I have read and accepted the **Code of conduct**
-- [ ] Eslint passes.
-- [ ] Jest tests passes.
+- [ ] Tests passes.
+- [ ] Style lints passes.
 - [ ] Documentation of new public methods exists.
 <!-- The following are only needed if this is a new feature. -->
 <!-- - [ ] New tests added which covers the added code. -->
