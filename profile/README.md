@@ -43,14 +43,11 @@ The following lovely companies and/or organizations provides us with infrastruct
 (such as servers) to work with open source:
 
 <div class="providers" style="display: inline">
-    <a href="https://fosshost.org" target="_blank" title="Fosshost.org">
-        <img src="https://jitesoft.com/images/fosshost.png" alt="Fosshost" height="128px">
-    </a>
     <a href="https://civo.com" target="_blank" title="Civo.com">
         <img src="https://jitesoft.com/images/civo.png" alt="Civo" height="128px">
     </a>
-    <a href="https://aarch64.com" target="_blank" title="Aarch64.com">
-        <img src="https://jitesoft.com/images/aarch64.png" alt="Aarch64" height="128px">
+    <a href="https://osuosl.org/" target="_blank" title="Oregon State University - Open Source Lab">
+        <img src="images/oslx128.webp" alt="Oregon State University - Open Source Lab">
     </a>
 </div>
 
