@@ -47,7 +47,7 @@ The following lovely companies and/or organizations provides us with infrastruct
         <img src="https://jitesoft.com/images/civo.png" alt="Civo" height="128px">
     </a>
     <a href="https://osuosl.org/" target="_blank" title="Oregon State University - Open Source Lab">
-        <img src="images/oslx128.webp" alt="Oregon State University - Open Source Lab">
+        <img src="https://jitesoft.com/images/oslx128.webp" alt="Oregon State University - Open Source Lab">
     </a>
 </div>
 
