@@ -3,7 +3,7 @@
 
 # Jitesoft AB
 
-Jitesoft AB is a company (Aktiebolag) based in Sweden. Our main focus is backend development, containerization and operations within web, application and game development. 
+Jitesoft AB is a company based in Sweden. Our main focus is backend development, containerization and operations within web, application and game development. 
 
 Most projects made at jitesoft - which are not customer owned - are released under the MIT or WTFPL license. Code is published to GitHub and GitLab and our containers and packages are deployed to a multitude of package registries.
 
