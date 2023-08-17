@@ -11,11 +11,11 @@ Find all our open source code here on GitHub or at [GitLab](https://gitlab.com/j
 
 ---
 
-## Signatures that might be worh having!
+## Signatures that might be worth having!
 
-GPG:
+PGP:
 
-Most of our gpg signatures are made by the following keys:
+Most of our PGP signatures are made by the following keys:
 
 ```
 Johannes Tegnér E97A 1482 A904 402E 1A60  C566 ED13 F046 A7B4 A4A7
@@ -39,7 +39,7 @@ The cosign public key can also be found at https://jitesoft.com/cosign.pub
 
 ## Sponsoring and shameless plugs!
 
-The following lovely companies and/or organizations provides us with infrastructure
+The following lovely organizations provides us with infrastructure
 (such as servers) to work with open source:
 
 <div class="providers" style="display: inline">
