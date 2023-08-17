@@ -1,11 +1,11 @@
 
 <img src="https://jitesoft.com/Jitesoft.svg" alt="Jitesoft Logo" title="Jitesoft Logo" width="128" height="128"/>
 
-# Jitesoft
+# Jitesoft AB
 
-Jitesoft is a private company (sole proprietorship) based in Sweden. Our main focus is backend development, containerization and operations within web, application and game development. 
+Jitesoft AB is a company (Aktiebolag) based in Sweden. Our main focus is backend development, containerization and operations within web, application and game development. 
 
-Our whole infrastructure runs on it and most projects made at jitesoft - which are not customer owned - are released under the MIT or WTFPL license. Code is published to GitHub and GitLab and our containers and packages are deployed to a multitude of package registries.
+Most projects made at jitesoft - which are not customer owned - are released under the MIT or WTFPL license. Code is published to GitHub and GitLab and our containers and packages are deployed to a multitude of package registries.
 
 Find all our open source code here on GitHub or at [GitLab](https://gitlab.com/jitesoft)!
 
